@@ -1,0 +1,10 @@
+Change code to load roommates from config, and figure out stuff based on who
+pays for what
+
+Generate config file if none exists, possibly interactively
+
+Add login to PSE
+
+Add login to Xfinity
+
+Modularize all bills such this this is a more general-purpose tool

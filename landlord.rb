@@ -41,7 +41,7 @@ def get_avalon
       #ledger_timestamp = '0'
       unix_timestamp = (Time.now.to_f * 1000).to_i
 
-      puts 'ledger: ' + ledger_timestamp
+      #puts 'ledger: ' + ledger_timestamp
       #puts 'unix: '   + unix_timestamp.to_s
 
       #balance_url = "https://www.avalonaccess.com/Dashboard/CurrentBalanceDetails?ledgerTimestamp=#{ledger_timestamp}&_=#{unix_timestamp}"
